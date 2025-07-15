@@ -9,7 +9,7 @@ into a dataframe. It also shows the output of the scores they recieved from 0-10
 
 Chart of Data(csv): This organized chart of data isolates the 200 lawyers places in the three coefficients, and there probability scores regarding these coefficients. 
 
-Explanatory Data Analysis(in PDF and .ipynb format): This file includes code and data found from using visualization techniques and statistical tools to support our hypothesis 
+Exploratory Data Analysis(in PDF and .ipynb format): This file includes code and data found from using visualization techniques and statistical tools to support our hypothesis 
 and manage our data into graphs. The graphs shown in this file are valuable examples of our data in different formats, and how each coefficient plays a role in a case.
 
 Logistic Regression Model(in PDF and .ipynb format): This file includes code and data used to create a logistic regression model. Mathematical calculations and use of different
